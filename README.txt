@@ -1,0 +1,1 @@
+Random message generator program built in JavaScript. Every time user runs the program, a new, randomized output appears.
